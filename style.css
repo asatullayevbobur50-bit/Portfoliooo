@@ -68,8 +68,6 @@ nav{
 #toggle-theme:checked ~ #theme{
     background:darkblue;
 }
-#toggle-theme:checked ~ #theme *{
-}
 #toggle-theme:checked ~ #theme{
     box-shadow:0 -100px 0 100px darkblue;
 }
@@ -180,7 +178,7 @@ nav{
     max-width:700px;
     margin: 0 auto;
     perspective:1000px;
-    gap:30px;
+    gap:40px;
 }
 
 .family-card{
