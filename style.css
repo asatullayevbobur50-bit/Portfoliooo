@@ -60,7 +60,7 @@ nav{
 .logo{
     width:140px;
     display:block;
-    margin-top:-25px;
+    margin-top:-40px;
 }
  #toggle-theme{
     display:none;
@@ -119,14 +119,15 @@ nav{
 .about h1{
     color:gold;
     width:500px;
-    margin-left:100px;
+    margin-left:80px;
     margin-top:200px;
     font-size:40px;
+    margin-bottom:20px;
  }
 .about p{
     width:600px;
     color:gold;
-    margin-left:120px;
+    margin-left:80px;
     font-size:25px;
 }
 
@@ -356,7 +357,7 @@ nav{
     padding:20px;
     display:inline-block;
     transition:0.3s;
-    margin-left:150px;
+    margin-left:80px;
     margin-top:50px;
 }
 .my-project:hover{
