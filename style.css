@@ -2,6 +2,7 @@
     padding:0;
     margin: 0;
     box-sizing:border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 html{
     scroll-behavior:smooth;
@@ -311,6 +312,8 @@ nav{
 }
 .project{
     display:flex;
+    align-items: center;
+    justify-content: center;
     flex-wrap:wrap;
 }
  .loyihalar-card{
